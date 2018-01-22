@@ -48,7 +48,7 @@ public abstract class BasePresenter<V extends IBaseView> implements IPresenter<V
 
 ### M:
 
-**DataModel:
+**DataModel:** 
 
 ```
 public abstract class BaseModel<T, E> {
@@ -59,8 +59,8 @@ public abstract class BaseModel<T, E> {
 }
 
 ```
-
-**ViewModel:
+ 
+**ViewModel:** 
 
 ```
 
